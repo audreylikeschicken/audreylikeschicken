@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Audrey</h1>
-<h3 align="center">I'm a third year at the University of Michigan studying data science with a physics minor 🔭</h3>
+<h3 align="center">I'm a third year at the University of Michigan studying data science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

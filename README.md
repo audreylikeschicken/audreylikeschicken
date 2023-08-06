@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Audrey</h1>
-<h3 align="center">I'm a third year at the University of Michigan studying data science and a physics minor 🔭</h3>
+<h3 align="center">I'm a third year at the University of Michigan studying data science and art</h3>
 
 - 🔭 I’m currently working on **a stock market predictor using NLP**
 

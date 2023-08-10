@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on **a stock market predictor using NLP**
 
 - 🌱 I’m currently learning **Machine Learning 🧠**
+  
+- 👯 I’m looking to collaborate on innovative projects
 
 - 📫 How to reach me **areng@umich.edu**
 
